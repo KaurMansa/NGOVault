@@ -4,6 +4,8 @@
 
 A secure web-based QR verification system that allows users to generate, scan, and verify digital identities using QR codes. This system ensures fast, reliable, and tamper-resistant identity validation.
 
+
+
 🚀 Features
 
 🔐 Secure digital identity creation
@@ -23,6 +25,7 @@ A secure web-based QR verification system that allows users to generate, scan, a
 🛡 Authentication & authorization
 
 
+
 🏗️ System Architecture
 
 User registers / logs in
@@ -36,6 +39,8 @@ QR is scanned
 System verifies identity from database
 
 Verification status displayed
+
+
 
 
 🛠️ Tech Stack
@@ -52,6 +57,8 @@ JavaScript (ES6+)
 Node.js
 
 Express.js
+
+
 
 
 📦 Libraries & Tools
@@ -76,9 +83,8 @@ JWT Authentication
 
 Encrypted identity IDs
 
-Role-based access control (optional)
 
-  This is a code bundle for QR Digital Identity Wallet UI. The original project is available at https://www.figma.com/design/ZdHuJx9acnXnrADb2OMmC1/QR-Digital-Identity-Wallet-UI.
+
 
   ## Running the code
 
